@@ -1,0 +1,115 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyNoneFunctionAssignmentInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="W391" />
+          <option value="E501" />
+          <option value="E225" />
+          <option value="E111" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="exit" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Day6.cart.amount" />
+          <option value="Day6.cart1.quantity" />
+          <option value="Day6.product.user" />
+          <option value="Day6.product.*" />
+          <option value="Day7.new.raw_input" />
+          <option value="Day7.new.username" />
+          <option value="Day8.fun.selling_price" />
+          <option value="Day8.fun.add_products" />
+          <option value="Day8.fun.*" />
+          <option value="Day9.school.add_class" />
+          <option value="Day9.school.update_class" />
+          <option value="Day9.school.list_classes" />
+          <option value="Day9.school.exit_class" />
+          <option value="Day9.school.class_detals" />
+          <option value="Day9.school.add_section" />
+          <option value="Day9.school.update_section" />
+          <option value="Day9.school.list_section" />
+          <option value="Day9.school.exit_program" />
+          <option value="Day9.school.details_section" />
+          <option value="Day9.school.add_student" />
+          <option value="Day9.school.update_student" />
+          <option value="Day9.school.list_students" />
+          <option value="Day9.school.exit_section" />
+          <option value="Day9.school.user" />
+          <option value="Day9.school.list_sections" />
+          <option value="Day9.school.section_details" />
+          <option value="Day9.school.students_menu" />
+          <option value="Day9.school.section_menu" />
+          <option value="Day9.school.exit_student" />
+          <option value="Day9.school.class_menu" />
+          <option value="Day9.school.classes" />
+          <option value="Day9.school.add_more_sections" />
+          <option value="Day9.school.sections" />
+          <option value="Day9.school.index1x" />
+          <option value="Day9.school.update_section_name" />
+          <option value="Day9.school.updated_section_name" />
+          <option value="Day9.school.update_class_teacher" />
+          <option value="Day9.school.update_no_of_students" />
+          <option value="Day9.school.index" />
+          <option value="Day9.school.user_input" />
+          <option value="Day9.school.updated" />
+          <option value="admin.admin_name" />
+          <option value="admin.admin_password" />
+          <option value="Day9.admin.attendance" />
+          <option value="Day9.admin.yes" />
+          <option value="Day9.admin.student_attendance" />
+          <option value="Day9.admin.present" />
+          <option value="Day9.admin.else_" />
+          <option value="Day9.admin.exit_program" />
+          <option value="Day9.admin.exit_class" />
+          <option value="Day9.admin.add_student" />
+          <option value="Day9.admin.update_student" />
+          <option value="Day9.admin.list_students" />
+          <option value="Day9.admin.index" />
+          <option value="Day9.admin.updated" />
+          <option value="Day9.admin.teacher" />
+          <option value="Day9.admin.user" />
+          <option value="Day9.admin.menu" />
+          <option value="Day9.school.list_sections_" />
+          <option value="Day9.school.section" />
+          <option value="Day9.admin.class_teacher" />
+          <option value="Day9.admin.students_menu" />
+          <option value="Day9.admin.section" />
+          <option value="Day9.admin.user_name" />
+          <option value="Day9.admin.password" />
+          <option value="Day9.admin.teacher_password" />
+          <option value="Day9.admin.teacher_user_name" />
+          <option value="Day9.admin.teacher_username" />
+          <option value="Day9.admin.admin_username" />
+          <option value="Day9.admin.admin_password" />
+          <option value="Day9.admin1.menu" />
+          <option value="Day10.table.easy_table" />
+          <option value="Day10.table.table" />
+          <option value="school_management.student.admin.Student" />
+          <option value="school_management.student.admin.StudentAdmin" />
+          <option value="school_management.student.models.Student" />
+          <option value="school_management.teacher.admin.TeacherAdmin" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
